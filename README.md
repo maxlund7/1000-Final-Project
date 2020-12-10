@@ -1,8 +1,8 @@
 # 1000-Final-Project
 # Home Page
-## Welcome, I am Steve Jobs
+## Welcome, I am Max Lund
 
-I am a student of CSE. And I do coding for pass time and I like to pass time making websites in markdown.
+I am a student of IT 1000. And this is my first year trying to learn code.
 
 Navigate my website using these links
 
