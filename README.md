@@ -1,4 +1,3 @@
-# 1000-Final-Project
 # Home Page
 ## Welcome, I am Max Lund
 
