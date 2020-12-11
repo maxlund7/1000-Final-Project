@@ -27,7 +27,7 @@ Below you will find a sample of some code I wrote this year during class. This c
    </body>
 </html>
 ```
- ## This is a sample of code from python
+ ## This is a sample of code from python (This code make a star shape plus an "M")
 ```html
 import turtle
 
