@@ -10,7 +10,7 @@
 
 ## Certificates
 
-![Certificate 1](https://github.com/username/image.png)
+![Certificate 1](https://github.com/maxlund7/image.png)
 
 ![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
 
