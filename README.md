@@ -10,3 +10,6 @@ _Navigate my website using these links_
 * [Code Sample](./code_sample.md)
 * [Hobbies](./hobby.md)
 * [How my school year went](./marks.md)
+
+
+[Mizzou](https://missouri.edu)
