@@ -27,6 +27,40 @@ Below you will find a sample of some code I wrote this year during class. This c
    </body>
 </html>
 ```
+ ## This is a sample of code from python
+ 
+import turtle
+
+max= turtle.Turtle()
+
+max.color("blue")
+max.speed(30)
+
+for i in range(40):
+    max.forward(300)
+    max.left(170)
+max.penup()
+max.left(135)
+max.forward(100)
+max.left(45)
+max.forward(100)
+max.pendown()
+
+#makes star
+
+max.color("red")
+max.right(45)
+max.forward(100)
+max.right(135)
+max.forward(100)
+max.left(100)
+max.forward(100)
+max.right(135)
+max.forward(100)
+
+#makes M
+
+turtle.done()
 
 
 [return to home page](./README.md)
