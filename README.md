@@ -9,4 +9,4 @@ Navigate my website using these links
 * [About Me](./aboutme.md)
 * [Code Sample](./code_sample.md)
 * [Hobbies](./hobby.md)
-* [Academy Performance](./marks.md)
+* [How my school year went](./marks.md)
