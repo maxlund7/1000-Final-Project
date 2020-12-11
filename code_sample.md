@@ -28,7 +28,7 @@ Below you will find a sample of some code I wrote this year during class. This c
 </html>
 ```
  ## This is a sample of code from python
- 
+```html
 import turtle
 
 max= turtle.Turtle()
@@ -61,6 +61,7 @@ max.forward(100)
 #makes M
 
 turtle.done()
+```
 
 
 [return to home page](./README.md)
